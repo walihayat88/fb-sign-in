@@ -1,0 +1,173 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgb(176, 225, 255);
+}
+#header{
+    display: inline;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+    background-color: rgb(12, 117, 236);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#facebook{
+    padding-left: 30px;
+    font-size: 40px;
+}
+#email{
+    padding-left:760px;
+    padding-bottom: 30px;
+}
+#password{
+    padding-bottom: 10px;
+    padding-left: 20px;
+
+}
+#btn{
+    padding-top: 20px;
+    padding-right: 30px;
+    border-radius: 30px;
+    font-weight: bold;
+   
+}
+#btn>input{
+    background-color: rgba(12, 117, 236, 40%);
+    border-color: black;
+    color: aliceblue;
+    border-radius:5px;
+}
+
+#password>a{
+    text-decoration: none;
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+#doco{
+    display: inline;
+    display: flex;
+    margin-top: 50px;
+    padding-left: 10px;
+}
+
+#search{
+    display: inline;
+    display: flex;
+    padding-top:10px;
+    padding-left: 10px;
+}
+
+#share{
+    display: inline;
+    display: flex;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+#connect{
+    font-size: 40px;
+    padding-left: 20px;
+}
+
+.paragraph{
+    padding-left: 40px;
+    font-size: 20px;
+    padding-top: 15px;
+}
+
+img{
+    height: 60px;
+    padding-top: 20px;
+}
+
+#up{
+    font-size: 40px;
+}
+#inputs{
+    float: right;
+    display: flex;
+    display: inline; 
+    margin-top: -450px;
+    padding-right: 30px;
+}
+
+#inputs>input{
+    display: flex;
+    display: inline;
+    height: 25px;
+    width: 200px;
+}
+
+#input1>input{
+    width: 411px;
+    height: 25px;
+}
+
+#input1{
+    padding-top: 10px;
+}
+
+
+#input2>input{
+    width: 411px;
+    height: 25px;
+}
+
+#input2{
+    padding-top: 10px;
+}
+
+
+#birthday{
+    display: inline;
+    display:flex;
+}
+
+#birthday>p{
+    font-size: 10px;
+    margin-left: 5px;
+    color: blue;
+    margin-top: -4px;
+}
+
+#birthday>input{
+    height: 25px;
+}
+
+#radio{
+    display: inline;
+    display: flex;
+}
+#radio>#radio2{
+    margin-left: 20px;
+}
+#click>p>span{
+    color: blue;
+}
+
+#click{
+    margin-top: -15px;
+}
+
+#click>p{
+    font-size: 12px;
+}
+
+
+#click>input{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(51, 224, 68);
+    border-color: transparent;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 16px;
+    
+
+}
+#free>p{
+    margin-top: -10px;
+}
